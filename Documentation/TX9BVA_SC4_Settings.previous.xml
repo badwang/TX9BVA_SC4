@@ -282,13 +282,13 @@ push-pull
       <Optimization_for v="speed" />
     </Properties>
     <Methods>
-      <GetDir v="don&amp;apos;t generate code" />
+      <GetDir v="generate code" />
       <SetDir v="don&amp;apos;t generate code" />
       <SetInput v="don&amp;apos;t generate code" />
       <SetOutput v="don&amp;apos;t generate code" />
       <GetVal v="generate code" />
       <PutVal v="don&amp;apos;t generate code" />
-      <GetBit v="don&amp;apos;t generate code" />
+      <GetBit v="generate code" />
       <PutBit v="don&amp;apos;t generate code" />
       <SetBit v="don&amp;apos;t generate code" />
       <ClrBit v="don&amp;apos;t generate code" />
@@ -341,17 +341,17 @@ autoselected pull
       <Optimization_for v="speed" />
     </Properties>
     <Methods>
-      <GetDir v="don&amp;apos;t generate code" />
+      <GetDir v="generate code" />
       <SetDir v="don&amp;apos;t generate code" />
       <SetInput v="don&amp;apos;t generate code" />
       <SetOutput v="don&amp;apos;t generate code" />
-      <GetVal v="don&amp;apos;t generate code" />
+      <GetVal v="generate code" />
       <PutVal v="generate code" />
-      <GetBit v="don&amp;apos;t generate code" />
-      <PutBit v="don&amp;apos;t generate code" />
-      <SetBit v="don&amp;apos;t generate code" />
-      <ClrBit v="don&amp;apos;t generate code" />
-      <NegBit v="don&amp;apos;t generate code" />
+      <GetBit v="generate code" />
+      <PutBit v="generate code" />
+      <SetBit v="generate code" />
+      <ClrBit v="generate code" />
+      <NegBit v="generate code" />
     </Methods>
     <Events>
       <EmptySection_DummyValue />
@@ -380,15 +380,15 @@ autoselected pull
       <Optimization_for v="speed" />
     </Properties>
     <Methods>
-      <GetDir v="don&amp;apos;t generate code" />
+      <GetDir v="generate code" />
       <SetDir v="don&amp;apos;t generate code" />
       <SetInput v="don&amp;apos;t generate code" />
       <SetOutput v="don&amp;apos;t generate code" />
-      <GetVal v="don&amp;apos;t generate code" />
+      <GetVal v="generate code" />
       <PutVal v="generate code" />
-      <ClrVal v="don&amp;apos;t generate code" />
-      <SetVal v="don&amp;apos;t generate code" />
-      <NegVal v="don&amp;apos;t generate code" />
+      <ClrVal v="generate code" />
+      <SetVal v="generate code" />
+      <NegVal v="generate code" />
     </Methods>
     <Events>
       <EmptySection_DummyValue />
@@ -422,7 +422,7 @@ push-pull
       <Optimization_for v="speed" />
     </Properties>
     <Methods>
-      <GetDir v="don&amp;apos;t generate code" />
+      <GetDir v="generate code" />
       <SetDir v="don&amp;apos;t generate code" />
       <SetInput v="don&amp;apos;t generate code" />
       <SetOutput v="don&amp;apos;t generate code" />
@@ -460,7 +460,7 @@ autoselected pull
       </boolgroup>
       <Maximum_time_of_event v="16.384 ms" />
       <group name="Initialization">
-        <Enabled_in_init__code v="yes" />
+        <Enabled_in_init__code v="no" />
         <Events_enabled_in_init_ v="yes" />
       </group>
       <group name="CPU clock/speed selection">
@@ -470,8 +470,8 @@ autoselected pull
       </group>
     </Properties>
     <Methods>
-      <Enable v="don&amp;apos;t generate code" />
-      <Disable v="don&amp;apos;t generate code" />
+      <Enable v="generate code" />
+      <Disable v="generate code" />
       <EnableEvent v="don&amp;apos;t generate code" />
       <DisableEvent v="don&amp;apos;t generate code" />
       <Reset v="generate code" />

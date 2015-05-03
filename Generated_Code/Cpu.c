@@ -7,7 +7,7 @@
 **     Version     : Component 01.001, Driver 01.40, CPU db: 3.00.003
 **     Datasheet   : MC9S08SC4RM Rev. 4 7/2010
 **     Compiler    : CodeWarrior HCS08 C Compiler
-**     Date/Time   : 2015-05-03, 22:08, # CodeGen: 4
+**     Date/Time   : 2015-05-03, 22:42, # CodeGen: 6
 **     Abstract    :
 **         This component "MC9S08SC4_16" contains initialization 
 **         of the CPU and provides basic methods and events for 
@@ -114,7 +114,7 @@ ISR(Cpu_Interrupt)
 {
   /* This code can be changed using the CPU component property "Build Options / Unhandled int code" */
   /*lint -save -e950 Disable MISRA rule (1.1) checking. */
-  asm(BGND);
+  while(1);
   /*lint -restore Enable MISRA rule (1.1) checking. */
 }
 

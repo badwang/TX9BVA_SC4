@@ -186,7 +186,7 @@
         <Unhandled_int_code>
           <StrgList><![CDATA[/* This code can be changed using the CPU component property "Build Options / Unhandled int code" */
 /*lint -save -e950 Disable MISRA rule (1.1) checking. */
-asm(BGND);
+while(1);
 /*lint -restore Enable MISRA rule (1.1) checking. */
 ]]></StrgList>
         </Unhandled_int_code>

@@ -3,7 +3,7 @@
   <Header>
     <Name>TX9BVA_SC4</Name>
     <SavedBy>BaD</SavedBy>
-    <ModificationStamp>6</ModificationStamp>
+    <ModificationStamp>8</ModificationStamp>
     <Date>2015-05-03</Date>
     <IDE>Eclipse IDE</IDE>
     <PEversion>1.9.2.RT6_b1446-0504</PEversion>
@@ -29,7 +29,7 @@
     <UseExistingModules>true</UseExistingModules>
     <RenamePeripheries>false</RenamePeripheries>
     <Autodependency>true</Autodependency>
-    <ProjectCompNumb>37</ProjectCompNumb>
+    <ProjectCompNumb>40</ProjectCompNumb>
     <DelUnusedPreviouslyGenFiles>true</DelUnusedPreviouslyGenFiles>
     <GeneratedCodeFrozen>false</GeneratedCodeFrozen>
     <AssignInitComponentNameToPrph>true</AssignInitComponentNameToPrph>
@@ -2246,7 +2246,7 @@
           <StrgList lines_count="4">
             <Line>/* This code can be changed using the CPU component property "Build Options / Unhandled int code" */</Line>
             <Line>/*lint -save -e950 Disable MISRA rule (1.1) checking. */</Line>
-            <Line>asm(BGND);</Line>
+            <Line>while(1);</Line>
             <Line>/*lint -restore Enable MISRA rule (1.1) checking. */</Line>
           </StrgList>
         </ItemState>
