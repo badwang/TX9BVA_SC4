@@ -1,0 +1,46 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/AD1.c" FileDate="2015-05-03, 22:08:58" FileAge="1430662138126" FileType="45637" CompNumb="30" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2015-05-03, 11:32:27" FileAge="1430623947188" FileType="45637" />
+      <File Name="Generated_Code/Signal_In.h" FileDate="2015-05-03, 22:08:55" FileAge="1430662135383" FileType="45637" CompNumb="6" />
+      <File Name="Sources/Events.h" FileDate="2015-05-03, 13:05:42" FileAge="1430629542712" FileType="131328" />
+      <File Name="Generated_Code/Signal_In.c" FileDate="2015-05-03, 22:08:55" FileAge="1430662135488" FileType="45637" CompNumb="6" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2015-05-03, 11:32:28" FileAge="1430623948642" FileType="8" CompNumb="2" />
+      <File Name="Sources/Events.c" FileDate="2015-05-03, 21:41:09" FileAge="1430660469201" FileType="131328" />
+      <File Name="Generated_Code/PWM_Timer.h" FileDate="2015-05-03, 11:32:27" FileAge="1430623947501" FileType="45637" CompNumb="32" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2015-05-03, 11:32:27" FileAge="1430623947063" FileType="45637" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2015-05-03, 13:05:42" FileAge="1430629542602" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2015-05-03, 11:32:27" FileAge="1430623947410" FileType="45637" />
+      <File Name="Generated_Code/WDT.h" FileDate="2015-05-03, 11:32:27" FileAge="1430623947468" FileType="45637" CompNumb="33" />
+      <File Name="Generated_Code/PWM_Timer.c" FileDate="2015-05-03, 11:32:27" FileAge="1430623947484" FileType="45637" CompNumb="32" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2015-05-03, 11:32:27" FileAge="1430623947939" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2015-05-03, 11:32:26" FileAge="1430623946916" FileType="45637" />
+      <File Name="Documentation/TX9BVA_SC4_Settings.xml" FileDate="2015-05-03, 22:09:01" FileAge="1430662141205" FileType="3072" />
+      <File Name="Sources/main.h" FileDate="2015-05-03, 22:05:21" FileAge="1430661921104" FileType="128" />
+      <File Name="Generated_Code/PWM_In.h" FileDate="2015-05-03, 22:08:58" FileAge="1430662138702" FileType="45637" CompNumb="31" />
+      <File Name="Generated_Code/WDT.c" FileDate="2015-05-03, 11:32:27" FileAge="1430623947433" FileType="45637" CompNumb="33" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2015-05-03, 22:08:59" FileAge="1430662139835" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2015-05-03, 11:32:27" FileAge="1430623947287" FileType="45637" />
+      <File Name="Generated_Code/Lever_Pos_MPND.h" FileDate="2015-05-03, 22:08:55" FileAge="1430662135564" FileType="45637" CompNumb="26" />
+      <File Name="Documentation/TX9BVA_SC4.txt" FileDate="2015-05-03, 22:09:01" FileAge="1430662141322" FileType="3072" />
+      <File Name="Sources/main.c" FileDate="2015-05-03, 22:07:57" FileAge="1430662077771" FileType="128" />
+      <File Name="Generated_Code/PWM_In.c" FileDate="2015-05-03, 22:08:59" FileAge="1430662139693" FileType="45637" CompNumb="31" />
+      <File Name="Generated_Code/Lever_Pos_MPND.c" FileDate="2015-05-03, 22:08:55" FileAge="1430662135684" FileType="45637" CompNumb="26" />
+      <File Name="Documentation/TX9BVA_SC4_SIGNALS.txt" FileDate="2015-05-03, 22:09:00" FileAge="1430662140463" FileType="3072" />
+      <File Name="Generated_Code/Lever_Pos_R.h" FileDate="2015-05-03, 22:08:56" FileAge="1430662136319" FileType="45637" CompNumb="27" />
+      <File Name="Generated_Code/AD1.h" FileDate="2015-05-03, 22:08:57" FileAge="1430662137562" FileType="45637" CompNumb="30" />
+      <File Name="Generated_Code/Lever_Pos_R.c" FileDate="2015-05-03, 22:08:57" FileAge="1430662137436" FileType="45637" CompNumb="27" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>5</CodeGenReference>
+</CodeGenerationInfo>
